@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "warehouseDistanceMap": {
+      "60": 1,
+      "100": 2,
+      "20": 0
+    }
+  },
+  {
+    "id": 1,
+    "warehouseDistanceMap": {
+      "13": 1,
+      "15": 2,
+      "20": 0
+    }
+  },
+  {
+    "id": 2,
+    "warehouseDistanceMap": {
+      "45": 1,
+      "55": 2,
+      "70": 0
+    }
+  },
+  {
+    "id": 3,
+    "warehouseDistanceMap": {
+      "1": 1,
+      "8": 2,
+      "5": 0
+    }
+  },
+  {
+    "id": 4,
+    "warehouseDistanceMap": {
+      "12": 1,
+      "30": 2,
+      "21": 0
+    }
+  }
+]
