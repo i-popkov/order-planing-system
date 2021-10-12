@@ -19,7 +19,7 @@ import java.util.TreeMap;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @SpringBootTest
-class AltirApplicationTests extends BasicTest {
+class OrderPlaningApplicationTests extends BasicTest {
     @Autowired
     private OrderController orderController;
     @Autowired

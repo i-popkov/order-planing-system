@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @RequiredArgsConstructor
-public class AltirApplication {
+public class OrderPlaningApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AltirApplication.class, args);
+        SpringApplication.run(OrderPlaningApplication.class, args);
     }
 
 }
